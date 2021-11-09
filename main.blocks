@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="b@$.T$pZ)%!!$8yn~AvS" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="6Sm@^HxEqmC2niu=PsCX"><value name="text"><shadow type="text" id="y;77$#g`^C~Zaz.A4.3)"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_print_message" id="P|.wkhP%}1{g(=Zb@t{3"><value name="text"><shadow type="text" id=".Za93gVZZ|.a)*0Co?wY"><field name="TEXT">Welcome to mircobit</field></shadow></value><next><block type="device_print_message" id="#,/lwTGZ_dEg59f^}K#y"><value name="text"><shadow type="text" id="m5v#i2VoOe1zRlZ|_Au#"><field name="TEXT">You will learn how to make a flashing hearts</field></shadow></value></block></next></block></next></block></statement></block><block type="device_forever" id="fZ(MBu-Xu/m9X^G*-g4P" x="494" y="-13"><statement name="HANDLER"><block type="device_show_leds" id="NlM,Fke,=l/TO`X|wJqQ"><field name="LEDS">`
+        # # . # # 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="(.i9Wi|gM;StNSRWd@t1"><field name="LEDS">`
+        # # . # # 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></statement></block></xml>
